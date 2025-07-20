@@ -1,6 +1,6 @@
 # gbg
 
-Hypersimple cli tool to run any command in the background from your shell.
+Go (to) BackGround, a hypersimple cli tool to run any command in the background from your shell.
 
 ## Install
 
