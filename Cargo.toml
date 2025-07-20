@@ -1,0 +1,11 @@
+[package]
+name = "gbg"
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+description = "A simple tool to run commands in the background"
+repository = "https://github.com/akshaykripalani/gbg"
+authors = ["Akshay Kripalani"]
+
+
+[dependencies]
