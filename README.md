@@ -23,8 +23,8 @@ gbg [-l LOG_FILE] <command> [args...]
 # Run a long-running script and discard output
 gbg python long_task.py
 
-# Run a build and log everything to build.log
-gbg -l python long_task.py
+# Run a long-running script and log everything to script.log
+gbg -l script.log python long_task.py
 ```
 
 Built for Linux & macOS. Requires the Rust installed
